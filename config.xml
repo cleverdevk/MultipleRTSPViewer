@@ -1,0 +1,26 @@
+<siteList>
+	<site name="name">
+		<uri>rtsp://url</uri>
+		<uri>rtsp://url</uri>
+	</site>
+	<site name="name2">
+		<uri>rtsp://url</uri>
+		<uri>rtsp://url</uri>
+		<uri>rtsp://url</uri>
+	</site>
+	<site name="name3">
+		<uri>rtsp://url</uri>
+		<uri>rtsp://url</uri>
+	</site>
+	<site name="name4">
+		<uri>rtsp://url</uri>
+		<uri>rtsp://url</uri>
+	</site>
+	<site name="name5">
+		<uri>rtsp://url</uri>
+		<uri>rtsp://url</uri>
+		<uri>rtsp://url</uri>
+		<uri>rtsp://url</uri>
+		<uri>rtsp://url</uri>
+	</site>
+</siteList>
